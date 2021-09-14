@@ -8,9 +8,13 @@ a:link{
 }
 a visited{
   color: white;
-  text-decoration:
+  text-decoration: none;
 }
 
 a:active{
   color: white;
+}
+
+a:-webkit-any-link{
+  text-decoration: none;
 }
