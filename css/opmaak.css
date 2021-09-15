@@ -3,18 +3,33 @@ body{
 }
 
 a:link{
-  color: white;
   text-decoration: none;
-}
-a visited{
-  color: white;
-  text-decoration: none;
+  color: black;
 }
 
-a:active{
-  color: white;
+a:hover{
+  text-decoration: none;
+  color: black;
 }
 
 a:-webkit-any-link{
-  text-decoration: none;
+  color: black;
+}
+
+header{
+  margin-left: 450px;
+  margin-top: 150px;
+}
+
+section{
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-bottom: auto;
+  margin-top: 250px;
+}
+
+.right{
+  margin-right: 50px;
+  margin-top: 250px;
+  margin-left: 500px;
 }
