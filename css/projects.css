@@ -1,22 +1,3 @@
-body{
-  background-color: lightblue;
-}
-
-.link:link{
-  text-decoration: none;
-  color: black;
-}
-
-.link:hover{
-  text-decoration: none;
-  color: black;
-}
-
-.link:-webkit-any-link{
-  color: black;
-}
-
-
 ul{
   list-style-type: none;
   margin: 0;
