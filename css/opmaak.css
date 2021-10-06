@@ -108,3 +108,74 @@ li a:hover {
   overflow: hidden;
   background-color: #333;
 }
+
+.bodywebsite{
+  background-color: black;
+}
+
+.website{
+  float: left;
+  color: white;
+}
+
+.li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.ulwebsite {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li a:hover {
+  background-color: #111;
+}
+.link:link{
+  text-decoration: none;
+  color: #00FFFF;
+}
+
+.link:hover{
+  text-decoration: none;
+  color: #00FFFF;
+}
+
+.link:-webkit-any-link{
+  color: #00FFFF;
+}
+
+.bodyproject{
+  background-color: black
+}
+
+.project{
+  float: left;
+  color: white;
+}
+
+.li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.ulproject {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #1E3F52;
+}
+
+li a:hover {
+  background-color: #111;
+}
