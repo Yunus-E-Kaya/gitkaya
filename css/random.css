@@ -2,13 +2,7 @@ body{
   background-color: black;
 }
 
-ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-li{
+.contact {
   float: left;
   color: white;
 }
@@ -21,7 +15,7 @@ li{
   text-decoration: none;
 }
 
-ul {
+.ulcontact {
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -31,12 +25,6 @@ ul {
 
 li a:hover {
   background-color: #111;
-}
-
-h1{
-  color: red;
-  font-family: helvetica;
-  font-size: 25px;
 }
 
 .none{

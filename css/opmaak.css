@@ -47,3 +47,64 @@ ul {
 li a:hover {
   background-color: #111;
 }
+
+h1{
+  float:left;
+  margin-right: 500px;
+  margin-left: 100px;
+  font-family: helvetica;
+  font-size: 20px;
+}
+
+.contact {
+  float: left;
+  color: white;
+}
+
+.li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.ulcontact {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.none{
+  text-decoration: none;
+}
+
+.bodyaboutme{
+  background-color:
+}
+
+.aboutme{
+  float: left;
+  color: white;
+}
+
+.li {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.ulaboutme {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
