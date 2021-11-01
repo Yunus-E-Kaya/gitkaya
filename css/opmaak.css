@@ -132,19 +132,7 @@ li a:hover {
 li a:hover {
   background-color: #111;
 }
-.link:link{
-  text-decoration: none;
-  color: #00FFFF;
-}
 
-.link:hover{
-  text-decoration: none;
-  color: #00FFFF;
-}
-
-.link:-webkit-any-link{
-  color: #00FFFF;
-}
 
 .bodyproject{
   background-color: black
