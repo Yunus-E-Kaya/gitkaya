@@ -169,8 +169,25 @@ li a:hover {
   padding: 0;
   overflow: hidden;
   background-color: #1E3F52;
+  margin-bottom: 100px
 }
 
 li a:hover {
   background-color: #111;
+}
+
+.Hproject{
+  color: cyan;
+  font-family: italic;
+  font-size: 25px;
+}
+
+.Hbadges{
+  color: yellow;
+  font-family: italic;
+  font-size: 25px
+}
+
+embed{
+  margin-left: 50px;
 }
