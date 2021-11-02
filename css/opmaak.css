@@ -135,7 +135,7 @@ li a:hover {
 
 
 .bodyproject{
-  background-color: black
+  background-color: darkblue;
 }
 
 .project{
@@ -178,4 +178,48 @@ li a:hover {
 
 embed{
   margin-left: 50px;
+}
+
+div{
+  display: block;
+}
+
+#task{
+  position: relative;
+  top: 15px;
+  left: 10px;
+}
+
+#black{
+  background-color: black;
+  width: 220px;
+  height: 220px;
+  position: absolute;
+  z-index: 1;
+}
+
+#yellow{
+  background-color: yellow;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  z-index: 2;
+}
+
+#blue{
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  top: 120px;
+  left: 120px;
+  z-index: 3;
+}
+
+#red{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  z-index: 4;
 }
